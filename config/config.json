@@ -37,7 +37,7 @@
     },
     "FileSettings": {
         "DriverName": "local",
-        "Directory": "./data/",
+        "Directory": "/mm/data/",
         "EnablePublicLink": true,
         "PublicLinkSalt": "A705AklYF8MFDOfcwh3I488G8vtLlVip",
         "ThumbnailWidth": 120,
@@ -62,7 +62,7 @@
         "SMTPPassword": "",
         "SMTPServer": "",
         "SMTPPort": "",
-        "ConnectionSecurity": "",
+        "ConnectionSecurity": "TLS",
         "InviteSalt": "bjlSR4QqkXFBr7TP4oDzlfZmcNuH9YoS",
         "PasswordResetSalt": "vZ4DcKyVVRlKHHJpexcuXzojkE5PZ5eL",
         "ApplePushServer": "",
